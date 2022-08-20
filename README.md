@@ -4,6 +4,8 @@
 
 HEROKU URL : https://gentle-earth-50736.herokuapp.com/
 
+GITHUB URL: https://github.com/neksebo/note_taker
+
 ## Description
 
 An application that can be used to write, save, and delete notes using Node and Express, utilizing JSON for data storage. With an already completed front-end, my role was to build the back-end and connect it to the front-end, as stated below:
